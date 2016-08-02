@@ -1,3 +1,16 @@
 .jumbotron2 {
 	text-align: center;
 }
+.input-group2 {
+	text-align:center;
+	width: 100%;
+}
+p {
+	text-align: left;
+	font-weight: bold;
+	font-size: 16px;
+}
+button {
+	width: 10%;
+	font-size: 25px;
+}
